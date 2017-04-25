@@ -1,0 +1,13 @@
+net: "/home/lvjiangjing/caffe_exp/Data_aug/affine_hair/train_val.txt"
+base_lr: 0.01
+lr_policy: "poly"
+gamma: 0.01
+power:0.5
+display: 40
+average_loss:40
+max_iter: 1000000
+momentum: 0.9
+weight_decay: 0.0002
+snapshot: 40000
+snapshot_prefix: "/home/lvjiangjing/caffe_exp/Data_aug/affine_hair/models/"
+solver_mode: GPU
