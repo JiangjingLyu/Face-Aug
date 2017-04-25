@@ -1,4 +1,4 @@
-# Face-Mask
+# Face-Aug
 The masks of glasses and hairstyles for our Neurocomputing [paper](http://www.sciencedirect.com/science/article/pii/S0925231216315016)
 
 
